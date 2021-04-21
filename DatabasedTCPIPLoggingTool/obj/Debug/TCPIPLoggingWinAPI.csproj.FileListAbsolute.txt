@@ -1,0 +1,14 @@
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\VIII_C#_Console\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\obj\Debug\TCPIPLoggingWinAPI.csproj.CoreCompileInputs.cache
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\VIII_C#_Console\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\bin\Debug\TCPIPLoggingToolWinAPI.exe.config
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\VIII_C#_Console\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\bin\Debug\TCPIPLoggingToolWinAPI.exe
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\VIII_C#_Console\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\bin\Debug\TCPIPLoggingToolWinAPI.pdb
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\VIII_C#_Console\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\obj\Debug\TCPIPLoggingWinAPI.csprojAssemblyReference.cache
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\VIII_C#_Console\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\obj\Debug\TCPIPLoggingToolWinAPI.exe
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\VIII_C#_Console\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\obj\Debug\TCPIPLoggingToolWinAPI.pdb
+G:\A-I_Backup\VIII_CodingProjekte\VIII_EinzelProjekte_GitRepo\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\bin\Debug\TCPIPLoggingToolWinAPI.exe.config
+G:\A-I_Backup\VIII_CodingProjekte\VIII_EinzelProjekte_GitRepo\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\bin\Debug\TCPIPLoggingToolWinAPI.exe
+G:\A-I_Backup\VIII_CodingProjekte\VIII_EinzelProjekte_GitRepo\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\bin\Debug\TCPIPLoggingToolWinAPI.pdb
+G:\A-I_Backup\VIII_CodingProjekte\VIII_EinzelProjekte_GitRepo\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\obj\Debug\TCPIPLoggingWinAPI.csprojAssemblyReference.cache
+G:\A-I_Backup\VIII_CodingProjekte\VIII_EinzelProjekte_GitRepo\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\obj\Debug\TCPIPLoggingWinAPI.csproj.CoreCompileInputs.cache
+G:\A-I_Backup\VIII_CodingProjekte\VIII_EinzelProjekte_GitRepo\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\obj\Debug\TCPIPLoggingToolWinAPI.exe
+G:\A-I_Backup\VIII_CodingProjekte\VIII_EinzelProjekte_GitRepo\TCPIPLoggingWinAPI\DatabasedTCPIPLoggingTool\obj\Debug\TCPIPLoggingToolWinAPI.pdb
