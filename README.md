@@ -8,7 +8,8 @@ This project isn´t complete, but it can be used in combination with a GUI appli
 
 
 
-Language: C'
+Language: C Sharp
+<br>
 Framework: .Net Framework 4.7.2
 
 
