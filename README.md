@@ -6,5 +6,8 @@ The classes ProcessQuery and TransferDirection were added by me to figure out wh
 
 This project isn´t complete, but it can be used in combination with a GUI application to show visually the retrieved informations.
 
+Language: C'
+Framework: .Net Framework 4.7.2
+
 Big thanks goes to the contributors from [Pinvoke.Net](https://www.pinvoke.net/default.aspx/iphlpapi/GetExtendedTcpTable.html). 
 You will find the official documentation [here](https://docs.microsoft.com/en-us/windows/win32/api/iphlpapi/nf-iphlpapi-getextendedudptable) and [here](https://docs.microsoft.com/en-us/windows/win32/api/iphlpapi/nf-iphlpapi-getextendedtcptable) from Microsoft. 
