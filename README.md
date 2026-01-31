@@ -10,7 +10,7 @@ This project isn´t complete, but it can be used in combination with a GUI appli
 
 Language: C Sharp
 <br>
-Framework: .Net Framework 4.7.2
+Framework: .NET 10.0.1 (Windows)
 
 
 Big thanks goes to the contributors from [Pinvoke.Net](https://www.pinvoke.net/default.aspx/iphlpapi/GetExtendedTcpTable.html). 
